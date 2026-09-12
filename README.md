@@ -10,6 +10,7 @@ SQL was used to profile, validate, and analyze the source data, while Power BI w
 
 To simulate a restaurant finance and cost-analysis workflow, the project also includes internally modeled ingredient mappings, annual budgets, recipes, menu items, and selling prices.
 
+[View the full Power BI report PDF](restaurant_cost_analysis.pdf)
 ---
 
 ## Business Questions
