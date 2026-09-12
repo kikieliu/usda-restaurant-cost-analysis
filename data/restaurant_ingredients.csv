@@ -1,0 +1,16 @@
+ingredient_id,ingredient_name,EFPG_Code
+I001,Burger Bun ,15000
+I002,Potato,20000
+I003,Tomato,23000
+I004,Lettuce,26000
+I005,White Onion,29000
+I006,Apple,30000
+I007,Orange Juice,35000
+I008,Whole Milk,40000
+I009,Cheddar Cheese,46000
+I010,Frozen Beef Patty,50050
+I011,Chicken Breast,51500
+I012,Olive Oil,70000
+I013,Caesar Dressing,70050
+I014,Ketchup,71000
+I015,House Seasoning Blend,71050
